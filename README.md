@@ -17,14 +17,14 @@
 
 <h4 align="left">🧰 Tools:</h4>
 
-![](https://img.shields.io/badge/Tool-VS_Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Tool-IntelliJ-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat-square&logo=Git&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Tool-Git_Extensions-informational?style=flat-square&logo=git-extensions&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat-square&logo=PostgreSQL&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Tool-Maven-informational?style=flat-square&logo=apache-maven&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Tool-Jenkins-informational?style=flat-square&logo=jenkins&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Tool-Postman-informational?style=flat-square&logo=postman&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![](https://img.shields.io/badge/Git_Extensions-212121?style=for-the-badge&logo=git-extensions&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <hr>
 
 
